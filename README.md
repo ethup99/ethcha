@@ -9,3 +9,6 @@ function getZKSyncBalance(address, token) {
   else {
     decimal = 18;
   }
+
+Coming Soon
+Farcaster and Lens connections
